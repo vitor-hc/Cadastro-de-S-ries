@@ -1,0 +1,16 @@
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+D:\Documentos Vitor\Projeto\Series\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.csprojAssemblyReference.cache
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+D:\Documentos Vitor\Projeto\Series\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
